@@ -25,7 +25,8 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile II
 
 > Screenshot aplikasi:
 
-![Screenshot_20260113-192957](https://github.com/user-attachments/assets/d1c6c279-cb17-4cc1-9eac-3b3531a9f107)
+![Screenshot_20260113-193310](https://github.com/user-attachments/assets/c0cf5daf-2877-414e-9483-ab9fdfdc6e95)
+
 
 
 
